@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/yowcow/b64_urlsafe.svg?branch=master)](https://travis-ci.org/yowcow/b64_urlsafe)
+
 b64_urlsafe
 ===========
 
