@@ -4,8 +4,7 @@ all:
 	$(REBAR) compile
 
 test:
-	$(REBAR) dialyzer
-	$(REBAR) eunit
+	$(REBAR) do eunit,dialyzer,xref
 
 clean:
 	rm -rf _build
